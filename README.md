@@ -109,7 +109,7 @@ module.exports = router;
 - **Data Accuracy Improvement:** Improved data accuracy by 30%.
 - **Tracking Errors Reduction:** Reduced tracking errors by 20%.
 
-## Authors
+
 
 - **Rishabh Jagtap** ([Email](mailto:rjagtap.1999@gmail.com))
 
